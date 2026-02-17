@@ -1,0 +1,42 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>COMM 100</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/reveal.js/5.1.0/reveal.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/reveal.js/5.1.0/theme/black.min.css">
+  </head>
+  <body>
+    <div class="reveal">
+      <div class="slides">
+        <section data-markdown="slides.md" data-separator-vertical="^\r?\n--\r?\n$">
+        </section>
+        </div>
+    </div>
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/reveal.js/5.1.0/reveal.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/reveal.js/5.1.0/plugin/markdown/markdown.js"></script>
+    
+    <script>
+
+      //Set the source for the markdown file
+      const urlParams = new URLSearchParams(window.location.search).get('slides');
+      const slideSource = './markdown/' + urlParams + ".md";
+      if(urlParams){
+        document.querySelector('section[data-markdown]').setAttribute('data-markdown', slideSource);
+      }else{
+        document.querySelector('section[data-markdown]').setAttribute('data-markdown', './markdown/default.md');
+      } 
+      
+      //Initialize Reval
+      Reveal.initialize({
+        plugins: [ RevealMarkdown ],
+        // Optional: Control settings
+        hash: true,
+        controls: true,
+        progress: true,
+        center: true
+      });
+    </script>
+  </body>
+</html>
