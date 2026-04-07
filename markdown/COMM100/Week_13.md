@@ -13,13 +13,15 @@
 - Topic and Improvements: This week – pick the speech that you feel needs
 more improvement.
 
+---
+
 ## Assignments coming up/left for the semester: ​​
 - Speech 5 - Next week (Week 14)​
 - Speaker Evaluation – Week 15​
 - Self Assessment – Week 16​
 - Final: Sunday, May 3 – ***Thursday May 7 11:30pm​***
 
---
+---
 
 ## Speech 4 Issues: 
 - Not clearly previewing main points in introduction
