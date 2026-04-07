@@ -21,14 +21,18 @@ more improvement.
 
 --
 
-## Speech 3 Outline
-### Due Sunday
-- Use Typed Outline Template
-    - You must use the "Outline Template - Download and Use This Format"...you will not receive points if you do not.
-    - Do not use your own format
-    - Do not change the outline/numbering or style
-- 10 Points
-
+## Speech 4 Issues: 
+- Not clearly previewing main points in introduction
+- Oral Citations – Title, Date, Author/Group (with credentials if needed)
+- Credibility​
+    - Needs to be built in the introduction…why are you the person to talk on this?​
+    - Use of resources – proper citations and sources used (need variety)​
+- Reading not Delivering
+    - Don’t use words you wouldn’t normally use in standard conversation (sounds like AI wrote it).​
+- Attention Getters should not be “Hello” and Clinchers should not be “Thank you for listening”​
+- Don’t say the words “Ethos/Pathos/Logos” or "My visualization/call to action is..."…use the ideas​
+- Not referring to your visual aids but only attaching/showing them​
+  
 --
 
 ## Speech 3 Outline
