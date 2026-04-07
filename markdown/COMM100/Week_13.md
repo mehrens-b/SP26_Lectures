@@ -6,18 +6,18 @@
 ## Announcements
 - Hopefully: Grades for Speech 4 in by late next week, but if you already feel that you will be redoing Speech 4 for your Speech 5, feel free to email me and I will try to make your speech a priority first.​
 
-### Assignments coming up/left for the semester: ​
-- Quizzes 19 & 20​
-- Topic and Improvements: This week – pick the speech that you feel needs
-more improvement.​
-
 ---
 
-## This Week's Assignments
-- Read Ch. 9, 11, & 16
-- Quiz over Ch. 9 & 11
-- **Speech 3 Outline - Due Sunday!**
-- Start/continue work on Speech 3...which is due Week 7
+## Assignments for this week​
+- Quizzes 19 & 20​
+- Topic and Improvements: This week – pick the speech that you feel needs
+more improvement.
+
+## Assignments coming up/left for the semester: ​​
+- Speech 5 - Next week (Week 14)​
+- Speaker Evaluation – Week 15​
+- Self Assessment – Week 16​
+- Final: Sunday, May 3 – ***Thursday May 7 11:30pm​***
 
 --
 
